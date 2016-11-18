@@ -1,6 +1,13 @@
 package edu.orangecoastcollege.sbadajoz.ic22;
 import java.util.InputMismatchException;
 import java.util.Scanner;
+/*
+Badajoz, Seve
+CS A170
+November 18, 2016
+
+IC22
+*/
 
 public class KeyboardWoes {
     public static void main(String[] args) {
