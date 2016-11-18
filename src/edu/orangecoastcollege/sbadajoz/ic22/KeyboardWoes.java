@@ -1,3 +1,4 @@
+package edu.orangecoastcollege.sbadajoz.ic22;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
